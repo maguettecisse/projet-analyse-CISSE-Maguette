@@ -59,6 +59,16 @@ python analyse.py
 
 Les résultats sont enregistrés dans `resultats.json` et les graphiques dans le dossier `figures/`.
 
+## Résultats principaux
+
+- Nombre de lignes après nettoyage : 5440
+- Port le plus utilisé : 443
+- Taux de connexions refusées : 13.57 %
+- Adresse IP présentant une activité de scan : 192.168.1.99
+- Adresse IP présentant le plus grand volume envoyé : 192.168.1.11
+
+Trois graphiques sont générés pour faciliter l'interprétation du trafic réseau.
+
 ## Auteur
 
 Maguette CISSE
