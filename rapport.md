@@ -28,3 +28,4 @@ Ces deux comportements sont considérés comme suspects et nécessitent des vér
 ## 4. Conclusion
 
 Cette analyse a permis de nettoyer les journaux du pare-feu, d'extraire des indicateurs importants et de produire des graphiques facilitant la compréhension du trafic réseau. Elle a également permis de repérer deux comportements nécessitant une investigation. L'utilisation de Python constitue ainsi une aide intéressante pour la supervision et l'amélioration de la sécurité d'un réseau informatique.
+Les graphiques générés permettent également de faciliter l'interprétation des données et d'orienter les investigations de sécurité.
