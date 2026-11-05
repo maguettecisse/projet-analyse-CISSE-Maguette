@@ -27,4 +27,6 @@ Ces deux comportements sont considérés comme suspects et nécessitent des vér
 
 ## 4. Conclusion
 
-Cette analyse a permis de nettoyer les journaux du pare-feu, d'extraire des indicateurs importants et de produire des graphiques facilitant la compréhension du trafic réseau. Elle a également permis de repérer deux comportements nécessitant une investigation. L'utilisation de Python constitue ainsi une aide intéressante pour la supervision et l'amélioration de la sécurité d'un réseau informatique. Les graphiques générés facilitent l'interprétation des données et contribuent à orienter les investigations de sécurité.
+Cette analyse a permis de nettoyer les journaux du pare-feu, d'extraire des indicateurs importants et de produire trois graphiques facilitant la compréhension du trafic réseau. Le graphique `top_ports.png` présente les ports les plus utilisés, `repartition_actions.png` illustre la répartition des connexions autorisées et refusées, et `volume_appareils.png` montre le volume de données envoyé par type d'appareil.
+
+L'analyse a également permis de repérer deux comportements nécessitant une investigation. L'utilisation de Python constitue ainsi une aide intéressante pour la supervision et l'amélioration de la sécurité d'un réseau informatique.
